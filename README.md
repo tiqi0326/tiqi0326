@@ -53,7 +53,7 @@ International collaboration is welcome.
 
 - GitHub: https://github.com/tiqi0326 
 - Email: tq0326@gmail.com  
-- ORCID: [https://orcid.org/xxxx-xxxx-xxxx-xxxx](https://orcid.org/0000-0001-8897-1714)
+- ORCID: [https://orcid.org/0000-0001-8897-1714](https://orcid.org/0000-0001-8897-1714)
 
 ---
 
