@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m **Tian Qi | 田琪**
 
-Postdoctoral Researcher @ **China Agricultural University (CAU)**[https://www.cau.edu.cn/]  
+Postdoctoral Researcher @ **China Agricultural University (CAU)*(https://www.cau.edu.cn/)  
 Remote Sensing · Crop Phenotyping · AI for Agriculture
 
 ---
