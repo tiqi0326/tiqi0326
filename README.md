@@ -17,7 +17,7 @@ to support **crop monitoring, stress detection, and breeding research**.
 ---
 ### 🎓 Education
 
-B.Sc., M.Sc., and Ph.D. all completed at **Northwest A&F University**,  
+B.Sc., M.Sc., and Ph.D. all completed at [**Northwest A&F University**](https://www.nwsuaf.edu.cn/index.htm),  
 with a background in **agriculture, GIS, and remote sensing**.
 
 ---
