@@ -15,6 +15,12 @@ I work on integrating **UAV, satellite data, and machine learning**
 to support **crop monitoring, stress detection, and breeding research**.
 
 ---
+### 🎓 Education
+
+B.Sc., M.Sc., and Ph.D. all completed at **Northwest A&F University**,  
+with a background in **agriculture, GIS, and remote sensing**.
+
+---
 
 ### 🧭 Research Interests
 
